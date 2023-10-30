@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T13:08:52.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ED_IZoTcLU4Pp6mmGJa0" version="21.5.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-10-30T13:14:47.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="wipKJCgFA0OutZGrMcZg" version="21.5.1" type="github" pages="11">
   <diagram id="c5rG1AJ31C6FUBM_DMR8" name="Page-8">
     <mxGraphModel dx="1120" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3734,7 +3734,7 @@
         <mxCell id="9gJI6Ed_7YJVuImJ0ncy-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9gJI6Ed_7YJVuImJ0ncy-25" target="9gJI6Ed_7YJVuImJ0ncy-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9gJI6Ed_7YJVuImJ0ncy-25" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1st Floor&lt;/font&gt;" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;container=0;" vertex="1" parent="1">
+        <mxCell id="9gJI6Ed_7YJVuImJ0ncy-25" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="313" y="-795" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9gJI6Ed_7YJVuImJ0ncy-27" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;container=0;" vertex="1" parent="1">
